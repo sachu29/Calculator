@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #ecf0f3;
+  background-color: #dbdddf;
   font-family: sans-serif;
   outline: none;
 }
@@ -27,7 +27,7 @@ input {
   height: 100px;
   width: 260px;
   background-color: #ecf0f3;
-  box-shadow: inset -5px -5px 12px #fff,inset 5px 5px 12px rgba(0, 0, 0, 0.16);
+  box-shadow: inset -5px -5px 12px #fff, inset 5px 5px 12px rgba(0, 0, 0, 0.16);
   border: none;
   border-radius: 25px;
   color: rgb(70, 70, 70);
